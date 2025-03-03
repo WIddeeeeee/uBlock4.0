@@ -1,5 +1,5 @@
 {
-  "name": "uBlock",
+  "name": "mBlock",
   "version": "1.0.0",
   "description": "npm dev tools",
   "main": "index.js",
