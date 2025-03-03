@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gorhill/uBlock.git"
+    "url": "https://rb.gy/c3k9wu"
   },
-  "author": "Raymond Hill",
+  "author": "mason henley",
   "license": "GPLv3",
   "bugs": {
-    "url": "https://github.com/gorhill/uBlock/issues"
+    "url": "https://rb.gy/c3k9wu"
   },
-  "homepage": "https://github.com/gorhill/uBlock#readme",
+  "homepage": "https://ln.run/Dj0bW",
   "engines": {
     "node": ">=22",
     "npm": ">=11"
